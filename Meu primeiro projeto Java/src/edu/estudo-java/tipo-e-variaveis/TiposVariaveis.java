@@ -9,7 +9,7 @@ public class TiposVariaveis {
 
        final double VALOR_DE_PI = 3.14;
 		
-        VALOR_DE_PI = 3.15; //não pode ser alterada já que a variável é final.
+        //VALOR_DE_PI = 3.15; //não pode ser alterada já que a variável é final.
     
     }
 
