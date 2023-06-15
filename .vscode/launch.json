@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "BoletimEstudantil",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAtribuicaoAritmeticos",
+            "request": "launch",
+            "mainClass": "OperadoresAtribuicaoAritmeticos",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "OperadoresRelacionais",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "OperadoresTernarios",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "OperadoresUnarios",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dio-java-basico_8629fdda"
+        }
+    ]
+}
