@@ -4,12 +4,24 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "type": "java",
-            "name": "Current File",
+            "name": "UtilizandoClasseScanner",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "UtilizandoClasseScanner",
+            "projectName": "dio-java-basico_8629fdda"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "DANIELE",
+                "AMORIM",
+                "37",
+                "1.68"
+            ]
         },
         {
             "type": "java",
